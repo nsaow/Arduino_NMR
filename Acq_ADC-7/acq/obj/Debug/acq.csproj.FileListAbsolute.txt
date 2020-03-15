@@ -1,0 +1,274 @@
+C:\Users\nath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\bin\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\bin\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.Form1.resources
+C:\Users\nath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\bin\Debug\acq.exe.config
+C:\Users\snath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\bin\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\bin\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\snath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.Form1.resources
+C:\Users\snath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\snath\OneDrive - Khon Kaen University\Research\NMR\acquisition software\acq\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\ACQ\acq\bin\Debug\acq.exe.config
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\ACQ\acq\obj\Debug\acq.exe
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\ACQ\acq\obj\Debug\acq.pdb
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\ACQ\acq\bin\Debug\acq.exe
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\ACQ\acq\bin\Debug\acq.pdb
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\ACQ\acq\obj\Debug\acq.Form1.resources
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\ACQ\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\ACQ\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq1\acq\bin\Debug\acq.exe.config
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq1\acq\obj\Debug\acq.exe
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq1\acq\obj\Debug\acq.pdb
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq1\acq\bin\Debug\acq.exe
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq1\acq\bin\Debug\acq.pdb
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq1\acq\obj\Debug\acq.Form1.resources
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq1\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq1\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq1\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq_ADC\acq\bin\Debug\acq.exe
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq_ADC\acq\bin\Debug\acq.pdb
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.Form1.resources
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\snath\Desktop\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition\Acq_ADC\acq\bin\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition\Acq_ADC\acq\bin\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.Form1.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition\Acq_ADC\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\bin\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\bin\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\bin\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\bin\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\bin\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\bin\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\serial test\Acq_ADC\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\bin\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\bin\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Pulse sequence and data acquisition V1\Acq_ADC\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\software\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\Nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.exe
+C:\Users\Nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.pdb
+C:\Users\Nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\Nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\Nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.csproj.GenerateResource.cache
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.exe.config
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\bin\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\obj\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\ZedGraph.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\ZedGraph.xml
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-1\acq\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\obj\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\ZedGraph.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\ZedGraph.xml
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-2\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\obj\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\ZedGraph.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\ZedGraph.xml
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-3\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\ZedGraph.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\ZedGraph.xml
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\acq.exe.config
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.csprojAssemblyReference.cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.csproj.CoreCompileInputs.cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.csproj.CopyComplete
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\acq.exe
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\acq.pdb
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\ZedGraph.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\ZedGraph.xml
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\snath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-4\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-5\acq\bin\Debug\acq.exe.config
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-5\acq\bin\Debug\acq.exe
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-5\acq\bin\Debug\acq.pdb
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nath\OneDrive - Khon Kaen University\NMR\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\NMR\Desktop\RX_Due_ADC\Acq_ADC-5\acq\bin\Debug\acq.exe.config
+C:\Users\NMR\Desktop\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.exe
+C:\Users\NMR\Desktop\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.pdb
+C:\Users\NMR\Desktop\RX_Due_ADC\Acq_ADC-5\acq\bin\Debug\acq.exe
+C:\Users\NMR\Desktop\RX_Due_ADC\Acq_ADC-5\acq\bin\Debug\acq.pdb
+C:\Users\NMR\Desktop\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+C:\Users\NMR\Desktop\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\NMR\Desktop\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\NMR\Desktop\RX_Due_ADC\Acq_ADC-5\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+C:\Users\nmr\Desktop\NMR data acquisition\Acq_ADC-5\acq\bin\Debug\acq.exe.config
+C:\Users\nmr\Desktop\NMR data acquisition\Acq_ADC-5\acq\obj\Debug\acq.exe
+C:\Users\nmr\Desktop\NMR data acquisition\Acq_ADC-5\acq\obj\Debug\acq.pdb
+C:\Users\nmr\Desktop\NMR data acquisition\Acq_ADC-5\acq\bin\Debug\acq.exe
+C:\Users\nmr\Desktop\NMR data acquisition\Acq_ADC-5\acq\bin\Debug\acq.pdb
+C:\Users\nmr\Desktop\NMR data acquisition\Acq_ADC-5\acq\obj\Debug\acq.FormACQ.resources
+C:\Users\nmr\Desktop\NMR data acquisition\Acq_ADC-5\acq\obj\Debug\acq.Properties.Resources.resources
+C:\Users\nmr\Desktop\NMR data acquisition\Acq_ADC-5\acq\obj\Debug\acq.csproj.GenerateResource.Cache
+E:\Users\snath\OneDrive - Khon Kaen University\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-7\acq\bin\Debug\acq.exe.config
+E:\Users\snath\OneDrive - Khon Kaen University\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-7\acq\obj\Debug\acq.exe
+E:\Users\snath\OneDrive - Khon Kaen University\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-7\acq\obj\Debug\acq.pdb
+E:\Users\snath\OneDrive - Khon Kaen University\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-7\acq\bin\Debug\acq.exe
+E:\Users\snath\OneDrive - Khon Kaen University\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-7\acq\bin\Debug\acq.pdb
+E:\Users\snath\OneDrive - Khon Kaen University\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-7\acq\obj\Debug\acq.csprojResolveAssemblyReference.cache
+E:\Users\snath\OneDrive - Khon Kaen University\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-7\acq\obj\Debug\acq.FormACQ.resources
+E:\Users\snath\OneDrive - Khon Kaen University\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-7\acq\obj\Debug\acq.Properties.Resources.resources
+E:\Users\snath\OneDrive - Khon Kaen University\programming\Arduino Due NMR project\RX_Due_ADC\Acq_ADC-7\acq\obj\Debug\acq.csproj.GenerateResource.Cache
