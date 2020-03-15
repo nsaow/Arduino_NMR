@@ -1,0 +1,6 @@
+from Pulse_prog_V1.43_RX_Due_2
+to Pulse_prog_V1.43_RX_Due_3
+
+changed
+1. Readout signal change from "Active HIGH" to "Active LOW".
+2. The Readout signal can be used as "BLANKING" for TEACHSPIN NMR machine. 

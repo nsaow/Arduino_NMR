@@ -1,0 +1,15 @@
+change the following parameters
+
+1. file:: Pulse_prog_V1.43_RX_Due_1.ino
+from	#include "seq_cpmg.h"  
+to	#include "seq_cpmg_1500.h"
+
+2. file:: _DUE_ADC.h
+from	const uint32_t DUE_ADC_memDepth = 10000;  
+to	const uint32_t DUE_ADC_memDepth = 4096;
+
+3. file:: _TIMER.h
+from	const uint16_t max_events = 4096;  
+to	const uint16_t max_events = 6144;
+
+4. TE must >= 2 ms	TR >= 4s
