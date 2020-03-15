@@ -1,0 +1,28 @@
+pulse and dds paramters
+p90 = 5.4
+p180 = 10.8
+freq = 21.655
+f0 = 21.655
+f1 = 21.655
+f2 = 21.655
+f3 = 21.655
+ddsamp0 = 380
+ddsamp1 = 380
+ddsamp2 = 500
+ddsamp3 = 600
+ddsph0 = 0
+ddsph1 = 90
+ddsph2 = 0
+ddsph3 = 90
+acquisition parameters
+mode = 0
+navg = 1
+tr = 500
+trdf = 5
+trde = 0.5
+fsam = 1000
+esam = 10
+nfid = 50
+nechoes = 10
+I_offset = 2450
+Q_offset = 2400
